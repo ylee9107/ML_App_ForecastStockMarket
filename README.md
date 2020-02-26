@@ -45,3 +45,33 @@ Overall, the market can be considered to be largely efficient in terms of its op
 ## 2.1 Momentum Strategies:
 
 Momentum strategies can be summed up as stocks are ranked from the highest down to the lowest according to its return over a prior period. It has been suggested that people then to underreact to news during the short tem and proceed to overreact to news in the long term. This translate to investors failing to increase the prices sufficiently when the stocks are reacting to exceptionally good news and that it takes time for the investors to come around. This tendency can be called the anchoring effect.
+
+## Dataset:
+
+The dataset for this project was obtained directly from Yahoo! Using the pandas data reader package, as there are codes within the package to directly extract the data.
+
+## Sanpshot:
+Below shows a sneak peak of the price data of the S&P 500.
+
+![Plot of Price Data]()
+
+## Required Libraries:
+
+1. Pandas
+2. Numpy
+3. Pandas Datareader
+4. Datetime
+5. Matplotlib
+6. mpl_finance
+7. Potly
+8. Sklearn
+9. Scipy
+10. Fastdtw
+
+## Summary:
+
+The intension of this project was to further develop my understanding in dealing with time-series data. Previously, I had undertaken a university Capstone data science project specifically looking into the FOREX market. 
+
+For this project, it covers approaches that uses machine learning in a trading strategy. This project does not cover other important aspects of trading (for example, portfolio construction, risk mitigation, management of money etc.) whereas it ventures into creating trade signals and some trade patterns. There are many more aspects of this project that can be developed in time, and as ideas comes from further research, I will continue to update this project. 
+
+
