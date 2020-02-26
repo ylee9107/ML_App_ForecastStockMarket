@@ -46,10 +46,6 @@ Overall, the market can be considered to be largely efficient in terms of its op
 
 Momentum strategies can be summed up as stocks are ranked from the highest down to the lowest according to its return over a prior period. It has been suggested that people then to underreact to news during the short tem and proceed to overreact to news in the long term. This translate to investors failing to increase the prices sufficiently when the stocks are reacting to exceptionally good news and that it takes time for the investors to come around. This tendency can be called the anchoring effect.
 
-## Dataset:
-
-The dataset for this project was obtained directly from Yahoo! Using the pandas data reader package, as there are codes within the package to directly extract the data.
-
 ## Sanpshot:
 Below shows a sneak peak of the price data of the S&P 500.
 
