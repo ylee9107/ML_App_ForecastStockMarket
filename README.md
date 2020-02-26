@@ -53,7 +53,7 @@ The dataset for this project was obtained directly from Yahoo! Using the pandas 
 ## Sanpshot:
 Below shows a sneak peak of the price data of the S&P 500.
 
-![Plot of Price Data]()
+![Plot of Price Data](https://github.com/ylee9107/ML_App_ForecastStockMarket/blob/master/Images/Plot%20of%20Price%20Data.png)
 
 ## Required Libraries:
 
